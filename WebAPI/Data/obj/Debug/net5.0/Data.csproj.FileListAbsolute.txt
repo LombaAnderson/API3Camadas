@@ -1,0 +1,17 @@
+C:\Users\filip\API3Camadas\WebAPI\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\filip\API3Camadas\WebAPI\Data\bin\Debug\net5.0\Data.dll
+C:\Users\filip\API3Camadas\WebAPI\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\filip\API3Camadas\WebAPI\Data\bin\Debug\net5.0\Business.dll
+C:\Users\filip\API3Camadas\WebAPI\Data\bin\Debug\net5.0\Model.dll
+C:\Users\filip\API3Camadas\WebAPI\Data\bin\Debug\net5.0\Business.pdb
+C:\Users\filip\API3Camadas\WebAPI\Data\bin\Debug\net5.0\Model.pdb
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.dll
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\refint\Data.dll
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\filip\API3Camadas\WebAPI\Data\obj\Debug\net5.0\ref\Data.dll
